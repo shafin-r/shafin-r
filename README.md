@@ -29,6 +29,13 @@ I'm an intermediate level coder and I'm currently learning web development. I'm 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fever-machine-enigma&theme=ayu_mirage) 
 
+**My Steam Profile** *(from [SteamDB](https://steamdb.info/calculator/76561199000807745/?cc=pk))*
+
+* **Value:** $147
+* **Games owned:** 118
+* **Games played:** 45 *(38%)*
+* **Hours on record:** 1,062.1h
+
 
 </div>
 
