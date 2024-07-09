@@ -8,7 +8,7 @@
 ### about me👨‍💻
 
 <div align="left">
-<img align="right" src="album.jpg" width ="320" />
+<img align="right" src="album.jpg" width ="280" />
 <p>I'm a final year Computer Science and Engineering student majoring in Data Science and Intelligent Systems at East West University, Dhaka.</p>
 <ul>
   <li>🔭 I'm currently working on <a href="https://github.com/shafin-r/ghotona-chitro">Ghotona Chitro</a>, a web application that can detect events from bangla text sources.</li>
