@@ -39,7 +39,7 @@
 </ul>
 
 ### my stats📈
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fever-machine-enigma&theme=ayu_mirage) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shafin-r&theme=ayu_mirage) 
 
 
 
