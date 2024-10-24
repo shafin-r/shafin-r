@@ -1,10 +1,5 @@
 # hey there, I'm shafin!
 
-
-
-
-
-
 ### about me👨‍💻
 
 <div align="left">
