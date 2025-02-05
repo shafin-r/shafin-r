@@ -6,7 +6,7 @@
 <img align="right" src="album.jpg" width ="200" />
 <p>I'm a final year Computer Science and Engineering student majoring in Data Science and Intelligent Systems at East West University, Dhaka.</p>
 <ul>
-  <li>🔭 I'm currently working on <a href="https://github.com/shafin-r/ghotona-chitro">Ghotona Chitro</a>, a web application that can detect events from bangla text sources.</li>
+  <li>🔭 I'm currently working on a grid-based drag-n-drop UI library called Bento!
   <li>🌱I'm currently learning Next.js along with UI/UX design to make my projects look nicer!</li>
   <li>🎸I love listening to music and playing folk, rock and indie music on my guitar!</li>
   <li>📫How you can reach me: <a href="mailto:shafin808s@gmail.com">shafin808s@gmail.com</a></li>
