@@ -22,6 +22,7 @@
 ### my projects📱
 <ul>
   <li><a href="https://github.com/shafin-r/ghotona-chitro">Ghotona Chitro</a>, a web application that can detect events from bangla text sources.</li>
+  <li><a href="https://github.com/shafin-r/examjam">ExamJam</a>, an educational technology platform for admission students preparing for universities.</li>
 </ul>
 
 ### my stats📈
