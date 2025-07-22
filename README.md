@@ -22,7 +22,6 @@
 ### my projects📱
 <ul>
   <li><a href="https://github.com/shafin-r/ghotona-chitro">Ghotona Chitro</a>, a web application that can detect events from bangla text sources.</li>
-  <li><a href="https://github.com/shafin-r/connect-caresphere">CareSphere | Connect</a>, a healthcare portal system equipped with EHR systems.
 </ul>
 
 ### my stats📈
